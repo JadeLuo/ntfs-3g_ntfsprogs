@@ -1,0 +1,17 @@
+.hg*
+.hg/*
+.hgtags
+.hgignore
+*.o
+*.d
+*.bin
+.boptions
+.flags
+.objects
+.depends
+*.a
+*.dll
+*.efi
+*.elf
+*.bin.s
+
